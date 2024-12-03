@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="4" time="124.69" tests="3" failures="0" errors="0">
+   <testsuite name="4" tests="3" failures="0" errors="0" time="124.69" skipped="0" timestamp="03-12-2024T14:52:02" hostname="Admin - Pushpa-PC" id="Test Suites/4">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Admin\\git\\Firstgitproject\\Reports\\20241203_144946\\4\\20241203_144949"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\git\\Firstgitproject\\Reports\\20241203_144946\\4\\20241203_144949\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - Pushpa-PC"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="sessionId" value="814967f674929cfa2e3fb5292b207c31"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/a1/a42" time="6.337" classname="Test Cases/a1/a42" status="PASSED">
+         <system-out><![CDATA[03-12-2024T14:52:03 - [TEST_CASE][PASSED] - Test Cases/a1/a42: Test Cases/a1/a42
+
+03-12-2024T14:52:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-12-2024T14:52:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-12-2024T14:52:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-12-2024T14:52:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-12-2024T14:52:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-12-2024T14:52:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/a1/a12" time="112.897" classname="Test Cases/a1/a12" status="PASSED">
+         <system-out><![CDATA[03-12-2024T14:52:10 - [TEST_CASE][PASSED] - Test Cases/a1/a12: Test Cases/a1/a12
+
+03-12-2024T14:52:10 - [TEST_STEP][PASSED] - openBrowser("yahoo.com"): Browser is opened with url: 'yahoo.com'
+
+03-12-2024T14:52:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-12-2024T14:52:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-12-2024T14:54:02 - [MESSAGE][PASSED] - Browser is opened with url: 'yahoo.com'
+
+03-12-2024T14:54:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-12-2024T14:54:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/a1/a22" time="4.346" classname="Test Cases/a1/a22" status="PASSED">
+         <system-out><![CDATA[03-12-2024T14:54:03 - [TEST_CASE][PASSED] - Test Cases/a1/a22: Test Cases/a1/a22
+
+03-12-2024T14:54:03 - [TEST_STEP][PASSED] - openBrowser("google.com"): Browser is opened with url: 'google.com'
+
+03-12-2024T14:54:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-12-2024T14:54:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-12-2024T14:54:07 - [MESSAGE][PASSED] - Browser is opened with url: 'google.com'
+
+03-12-2024T14:54:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-12-2024T14:54:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-12-2024T14:52:02 - [TEST_SUITE][PASSED] - 4: Test Cases/a1/a22]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
