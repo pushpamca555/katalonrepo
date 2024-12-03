@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2,Chrome 131.0.0.0,,,03-12-2024 14:02:21,03-12-2024 14:02:30,8.894s,PASSED
+,,,,,,,
+Test Cases/a1/a22,Chrome 131.0.0.0,,,03-12-2024 14:02:22,03-12-2024 14:02:30,8.433s,PASSED
+"openBrowser(""google.com"")",Chrome 131.0.0.0,,,03-12-2024 14:02:22,03-12-2024 14:02:30,7.339s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,03-12-2024 14:02:30,03-12-2024 14:02:30,0.582s,PASSED
