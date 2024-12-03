@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1" time="77.814" tests="1" failures="0" errors="0">
+   <testsuite name="1" tests="1" failures="0" errors="0" time="77.814" skipped="0" timestamp="03-12-2024T14:49:57" hostname="Admin - Pushpa-PC" id="Test Suites/1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Admin\\git\\Firstgitproject\\Reports\\20241203_144926\\1\\20241203_144928"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\git\\Firstgitproject\\Reports\\20241203_144926\\1\\20241203_144928\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - Pushpa-PC"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="sessionId" value="726d22733a58dd3dbb565e8348104f86"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/a1/a12" time="75.92" classname="Test Cases/a1/a12" status="PASSED">
+         <system-out><![CDATA[03-12-2024T14:49:59 - [TEST_CASE][PASSED] - Test Cases/a1/a12: Test Cases/a1/a12
+
+03-12-2024T14:50:00 - [TEST_STEP][PASSED] - openBrowser("yahoo.com"): Browser is opened with url: 'yahoo.com'
+
+03-12-2024T14:50:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-12-2024T14:50:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-12-2024T14:51:09 - [MESSAGE][PASSED] - Browser is opened with url: 'yahoo.com'
+
+03-12-2024T14:51:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-12-2024T14:51:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-12-2024T14:49:57 - [TEST_SUITE][PASSED] - 1: Test Cases/a1/a12]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
